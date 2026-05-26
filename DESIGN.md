@@ -8,7 +8,7 @@ In **light mode**, the interface breathes with crisp, near-white surfaces and su
 
 Accent energy comes exclusively from a **combustion-red gradient** (`red-500 → rose-500 → amber-500`) reserved for hero typography, primary CTAs, and feature icon badges — injecting controlled warmth into an otherwise neutral palette.
 
-The landing page introduces atmospheric depth through an **animated WebGL shader background** (aurora effect) and a grid-pattern overlay with a radial fade mask, establishing visual sophistication before the user reads a single word.
+The landing page introduces atmospheric depth through an **animated WebGL shader background** (aurora effect) and a grid-pattern overlay with a radial fade mask, establishing visual sophistication before the user reads with a single word.
 
 ## 2. Color Palette & Roles
 
